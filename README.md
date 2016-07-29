@@ -1,0 +1,2 @@
+# lxde-artwork
+LXDE Artwork
